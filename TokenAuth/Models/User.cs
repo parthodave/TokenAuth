@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 
 namespace TokenAuth.Models
-{
+{ 
     public class User
     {
         public int Id { get; set; }
